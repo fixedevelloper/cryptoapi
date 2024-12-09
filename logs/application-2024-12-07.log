@@ -1,0 +1,285 @@
+[90m2024-12-07 00:04:57[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 00:45:05[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 00:45:14[39m [[33MWARN[39M] : [33mInvalid API key for user undefined during withdrawal request[39m
+[90m2024-12-07 00:54:14[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 02:55:12[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 02:56:54[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 02:56:55[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:03:08[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:03:18[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:05:53[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:05:56[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:06:31[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user undefined[39m
+[90m2024-12-07 03:07:20[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user 12887390[39m
+[90m2024-12-07 03:07:34[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user 12887390[39m
+[90m2024-12-07 03:07:43[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user 12887390[39m
+[90m2024-12-07 03:08:25[39m [[33MWARN[39M] : [33mInvalid API key for user 12887390 during withdrawal request[39m
+[90m2024-12-07 03:08:48[39m [[33MWARN[39M] : [33mInvalid API key for user 12887390 during withdrawal request[39m
+[90m2024-12-07 03:10:41[39m [[33MWARN[39M] : [33mInvalid API key for user 12887390 during withdrawal request[39m
+[90m2024-12-07 03:10:43[39m [[33MWARN[39M] : [33mInvalid API key for user 12887390 during withdrawal request[39m
+[90m2024-12-07 03:11:01[39m [[32MINFO[39M] : [32mProcessing request id : [39m
+[90m2024-12-07 03:11:01[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"coming sson"}[39m
+[90m2024-12-07 03:11:07[39m [[32MINFO[39M] : [32mProcessing request id : [39m
+[90m2024-12-07 03:11:07[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"coming sson"}[39m
+[90m2024-12-07 03:14:14[39m [[33MWARN[39M] : [33mInvalid withdrawal request data for user 12887390[39m
+[90m2024-12-07 03:14:43[39m [[32MINFO[39M] : [32mProcessing request id :  0e3a82a56303616a3781507d65bf025c[39m
+[90m2024-12-07 03:14:43[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:14:43[39m [[31MERROR[39M] : [31mFailed to initialize contract Invalid Private Key, Not a valid string or uint8Array[39m
+[90m2024-12-07 03:14:43[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:14:43[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:14:43[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":{}}[39m
+[90m2024-12-07 03:15:54[39m [[32MINFO[39M] : [32mProcessing request id :  5fd9d40c00bed554e0afee2301fc46da[39m
+[90m2024-12-07 03:15:54[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:15:55[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:15:56[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:15:56[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:15:56[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:15:56[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:15:56[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":{}}[39m
+[90m2024-12-07 03:18:47[39m [[32MINFO[39M] : [32mProcessing request id :  6784e8253253275a07333650a111ae3d[39m
+[90m2024-12-07 03:18:47[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:18:49[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:18:49[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:18:49[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:18:49[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:18:49[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:18:49[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":{}}[39m
+[90m2024-12-07 03:21:22[39m [[32MINFO[39M] : [32mProcessing request id :  2a7e78df058ffd1731c57f12b773bc68[39m
+[90m2024-12-07 03:21:22[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:21:24[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:21:25[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:21:25[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:21:25[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:21:25[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:21:25[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":{}}[39m
+[90m2024-12-07 03:22:20[39m [[32MINFO[39M] : [32mProcessing request id :  664280d8874cdc6ef8dae07dd5064d36[39m
+[90m2024-12-07 03:22:20[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:22:22[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:22:23[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:22:23[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:22:23[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:22:23[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:22:23[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":{}}[39m
+[90m2024-12-07 03:25:34[39m [[32MINFO[39M] : [32mProcessing request id :  d8aa686245d8c6c885c02d6077f716b6[39m
+[90m2024-12-07 03:25:34[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:25:36[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:25:37[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:25:37[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:25:37[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:25:37[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Failed to process withdrawal request[39m
+[90m2024-12-07 03:25:37[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Failed to process withdrawal request"}[39m
+[90m2024-12-07 03:27:25[39m [[32MINFO[39M] : [32mProcessing request id :  d764fe9dc050dda435ddb18c424a074e[39m
+[90m2024-12-07 03:27:25[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:27:27[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:27:27[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:27:27[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:27:27[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:27:27[39m [[31MERROR[39M] : [31mFailed to process withdrawal request The transaction was init but failed during the execution[39m
+[90m2024-12-07 03:27:27[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"The transaction was init but failed during the execution"}[39m
+[90m2024-12-07 03:28:57[39m [[32MINFO[39M] : [32mProcessing request id :  61915b0dd10d8946e356ef702c37c68f[39m
+[90m2024-12-07 03:28:57[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:28:59[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:29:00[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:29:00[39m [[31MERROR[39M] : [31mFailed to initialize contract Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:29:00[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:29:00[39m [[31MERROR[39M] : [31mFailed to process withdrawal request The transaction was init but failed during the execution[39m
+[90m2024-12-07 03:29:00[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"The transaction was init but failed during the execution"}[39m
+[90m2024-12-07 03:30:39[39m [[32MINFO[39M] : [32mProcessing request id :  16814718e01623d542d315617ad6e853[39m
+[90m2024-12-07 03:30:39[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:30:40[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:30:41[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:30:41[39m [[31MERROR[39M] : [31mTransfer failed  Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:30:41[39m [[32MINFO[39M] : [32mFailed to process withdrawal request, userData : [39m
+[90m2024-12-07 03:30:41[39m [[31MERROR[39M] : [31mFailed to process withdrawal request The transaction was init but failed during the execution[39m
+[90m2024-12-07 03:30:41[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"The transaction was init but failed during the execution"}[39m
+[90m2024-12-07 03:32:28[39m [[32MINFO[39M] : [32mProcessing request id :  fc525d37f0ef929e17b92f35089a1c34[39m
+[90m2024-12-07 03:32:28[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:32:29[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:32:30[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:32:30[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 0, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:32:34[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:32:34[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:34:23[39m [[32MINFO[39M] : [32mProcessing request id :  7fcfe68a295c4dfef1d2684873541e92[39m
+[90m2024-12-07 03:34:23[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:34:25[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:34:26[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:34:26[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:34:30[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:34:30[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:38:09[39m [[32MINFO[39M] : [32mProcessing request id :  48ee8fe25ba67fe4252a3c626ee5af81[39m
+[90m2024-12-07 03:38:09[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:38:11[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:38:12[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:38:12[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:38:12[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:38:16[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:38:16[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:38:16[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:44:59[39m [[32MINFO[39M] : [32mProcessing request id :  88bebb84d628124a12f552c92ecbc23a[39m
+[90m2024-12-07 03:44:59[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:45:01[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 51508 gas[39m
+[90m2024-12-07 03:45:01[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 61810 gas[39m
+[90m2024-12-07 03:45:01[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 61810[39m
+[90m2024-12-07 03:45:02[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:45:06[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:45:06[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:45:06[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:46:46[39m [[32MINFO[39M] : [32mProcessing request id :  aaf6f893c3fce9a6cfa7264013bb3d06[39m
+[90m2024-12-07 03:46:46[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:46:48[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:46:48[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:46:48[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:46:49[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:46:52[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:46:52[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:46:52[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:48:44[39m [[32MINFO[39M] : [32mProcessing request id :  97edbb9cf5f4b2d78ac66318a650ceec[39m
+[90m2024-12-07 03:48:44[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:48:46[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:48:46[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:48:46[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:48:47[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:48:50[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:48:50[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 03:48:50[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:48:50[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:50:53[39m [[32MINFO[39M] : [32mProcessing request id :  7577055cf7bccf905f561009e4912bb3[39m
+[90m2024-12-07 03:50:53[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:50:55[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 51508 gas[39m
+[90m2024-12-07 03:50:56[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 61810 gas[39m
+[90m2024-12-07 03:50:56[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 61810[39m
+[90m2024-12-07 03:50:56[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:51:01[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:51:01[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 03:51:01[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:51:01[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:53:08[39m [[32MINFO[39M] : [32mProcessing request id :  7dadd447bc1c048f0ebd3f5d6235d8dd[39m
+[90m2024-12-07 03:53:08[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:53:10[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 03:53:11[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 03:53:11[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 03:53:11[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:53:15[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:53:15[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 03:53:15[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 03:53:15[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Do not know how to serialize a BigInt[39m
+[90m2024-12-07 03:53:15[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Do not know how to serialize a BigInt"}[39m
+[90m2024-12-07 03:55:48[39m [[32MINFO[39M] : [32mProcessing request id :  2ab15272b6520740a87b38ec51cdba24[39m
+[90m2024-12-07 03:55:48[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 03:55:50[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 51508 gas[39m
+[90m2024-12-07 03:55:51[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 61810 gas[39m
+[90m2024-12-07 03:55:51[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 61810[39m
+[90m2024-12-07 03:55:52[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 03:55:55[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 03:55:55[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 03:55:55[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 03:55:55[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 04:05:48[39m [[32MINFO[39M] : [32mProcessing request id :  aa831e2795807b14e580cd9bb94e5745[39m
+[90m2024-12-07 04:05:48[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 04:05:50[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 04:05:50[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 04:05:50[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 10 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 04:05:51[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 04:05:54[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 04:05:54[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 04:05:54[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 04:05:54[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 04:08:36[39m [[32MINFO[39M] : [32mProcessing request id :  0889cadd6649f8191b4b72811b84ec3a[39m
+[90m2024-12-07 04:08:36[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 04:08:38[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 51508 gas[39m
+[90m2024-12-07 04:08:39[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 61810 gas[39m
+[90m2024-12-07 04:08:39[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 1 USDT OpBNB, gas price : 1000000, gas limit : 61810[39m
+[90m2024-12-07 04:08:39[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 04:08:43[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 04:08:43[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 04:08:43[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 04:08:43[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 04:09:08[39m [[32MINFO[39M] : [32mProcessing request id :  4e5537e0e00e8b64575ae48a9a60b1f2[39m
+[90m2024-12-07 04:09:08[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 04:09:09[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 04:09:10[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 04:09:10[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 5 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 04:09:11[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 04:09:14[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 04:09:14[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 04:09:14[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 04:09:14[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 04:09:49[39m [[32MINFO[39M] : [32mProcessing request id :  e6424d8f723b616a4cf62c60d694c821[39m
+[90m2024-12-07 04:09:49[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:09:49[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:09:52[39m [[32MINFO[39M] : [32mProcessing request id :  c50f4fda7ce86f1c65026541accb810f[39m
+[90m2024-12-07 04:09:52[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:09:52[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:10:02[39m [[32MINFO[39M] : [32mProcessing request id :  2f7bf710527a3095d4f4e43adf0b98cc[39m
+[90m2024-12-07 04:10:02[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:10:02[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:10:02[39m [[32MINFO[39M] : [32mProcessing request id :  ddc2e26d2f75809a97cfe67ef89bff02[39m
+[90m2024-12-07 04:10:02[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:10:02[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:10:05[39m [[32MINFO[39M] : [32mProcessing request id :  6c3b5e796aa1f98bb7323d6d8697599c[39m
+[90m2024-12-07 04:10:05[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:10:05[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:10:06[39m [[32MINFO[39M] : [32mProcessing request id :  d6b85a2d3ded91656743dbec71fc8beb[39m
+[90m2024-12-07 04:10:06[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:10:06[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:14:05[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:14:21[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:14:25[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:14:25[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:14:25[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:15:03[39m [[32MINFO[39M] : [32m"127.0.0.1"[39m
+[90m2024-12-07 04:16:44[39m [[32MINFO[39M] : [32mProcessing request id :  6ced5e59fb69982dd760d26ce27f6a33[39m
+[90m2024-12-07 04:16:44[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:16:44[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:16:51[39m [[32MINFO[39M] : [32mProcessing request id :  784e04fdce5f7ce28c9ad4b06034cbd8[39m
+[90m2024-12-07 04:16:51[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 04:16:51[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 04:17:06[39m [[32MINFO[39M] : [32mProcessing request id :  0d3550fec2f989e9298a4d6520fe9ef2[39m
+[90m2024-12-07 04:17:06[39m [[32MINFO[39M] : [32mConnected to Ethereum network: OpBNB[39m
+[90m2024-12-07 04:17:08[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34408 gas[39m
+[90m2024-12-07 04:17:09[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41290 gas[39m
+[90m2024-12-07 04:17:09[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3, amount : 9.99 USDT OpBNB, gas price : 1000000, gas limit : 41290[39m
+[90m2024-12-07 04:17:09[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 04:17:13[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 04:17:13[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 04:17:13[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 04:17:13[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 04:26:44[39m [[32MINFO[39M] : [32mProcessing request id :  38848efa81c986b62b0f704abafb5106[39m
+[90m2024-12-07 04:26:44[39m [[32MINFO[39M] : [32mConnected to Ethereum network: Binance Smart Chain[39m
+[90m2024-12-07 04:26:46[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 51603 gas[39m
+[90m2024-12-07 04:26:46[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 61924 gas[39m
+[90m2024-12-07 04:26:46[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x55d398326f99059fF775485246999027B3197955, amount : 9.99 USDT Binance Smart Chain, gas price : 1000000000, gas limit : 61924[39m
+[90m2024-12-07 04:26:47[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 04:26:51[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 04:26:51[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 04:26:51[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 04:26:51[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 12:29:02[39m [[32MINFO[39M] : [32mProcessing request id :  224e4f1561e4600625eb9159d8119927[39m
+[90m2024-12-07 12:29:02[39m [[32MINFO[39M] : [32mConnected to Ethereum network: Binance Smart Chain[39m
+[90m2024-12-07 12:29:03[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34503 gas[39m
+[90m2024-12-07 12:29:04[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41404 gas[39m
+[90m2024-12-07 12:29:04[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x55d398326f99059fF775485246999027B3197955, amount : 9.99 USDT Binance Smart Chain, gas price : 1000000000, gas limit : 41404[39m
+[90m2024-12-07 12:29:04[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 12:29:09[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 12:29:09[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 12:29:09[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 12:29:09[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
+[90m2024-12-07 12:36:19[39m [[32MINFO[39M] : [32mProcessing request id :  453c5a4b8cb3e2e3cf613e835f2fcba5[39m
+[90m2024-12-07 12:36:19[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 12:36:19[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 12:40:14[39m [[32MINFO[39M] : [32mProcessing request id :  ad5d0c93feac5f0437f0cc58b8054079[39m
+[90m2024-12-07 12:40:14[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 12:40:14[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 12:40:17[39m [[32MINFO[39M] : [32mProcessing request id :  9d9247e00b7fbf8eea0ea25dc21808a8[39m
+[90m2024-12-07 12:40:17[39m [[31MERROR[39M] : [31mFailed to process withdrawal request Insufficient balance[39m
+[90m2024-12-07 12:40:17[39m [[31MERROR[39M] : [31mFailed to process withdrawal request for user 12887390, result : {"success":false,"response":"Insufficient balance"}[39m
+[90m2024-12-07 12:40:20[39m [[32MINFO[39M] : [32mProcessing request id :  2b3f9604ad833522593b5e972c6f1d35[39m
+[90m2024-12-07 12:40:20[39m [[32MINFO[39M] : [32mConnected to Ethereum network: Binance Smart Chain[39m
+[90m2024-12-07 12:40:21[39m [[32MINFO[39M] : [32mEstimated fees for Ethereum transfer: 34503 gas[39m
+[90m2024-12-07 12:40:21[39m [[32MINFO[39M] : [32mGas limit for Ethereum transfer: 41404 gas[39m
+[90m2024-12-07 12:40:21[39m [[32MINFO[39M] : [32mTransaction data for Ethereum transfer: to : 0x55d398326f99059fF775485246999027B3197955, amount : 9.99 USDT Binance Smart Chain, gas price : 1000000000, gas limit : 41404[39m
+[90m2024-12-07 12:40:22[39m [[32MINFO[39M] : [32mTransaction signed successfully, sending it to Ethereum network[39m
+[90m2024-12-07 12:40:24[39m [[32MINFO[39M] : [32mTransaction sent successfully, transaction hash: [39m
+[90m2024-12-07 12:40:24[39m [[32MINFO[39M] : [32mhash : [39m
+[90m2024-12-07 12:40:24[39m [[32MINFO[39M] : [32msaving transaction to database[39m
+[90m2024-12-07 12:40:24[39m [[32MINFO[39M] : [32mWithdrawal request processed successfully , userData : [39m
